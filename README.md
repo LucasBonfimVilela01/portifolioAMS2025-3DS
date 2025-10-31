@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Este repositório contém o portfólio das atividades desenvolvidas durante o curso de Análise e Desenvolvimento de Sistemas (AMS) 2025 - 3DS.
+Este repositório contém o portfólio das atividades desenvolvidas durante o curso de Análise e Desenvolvimento de Sistemas (AMS) 2025 - 3DS por Lucas Bonfim Vilela.
 
 ## Estrutura do Repositório
 
